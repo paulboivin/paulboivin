@@ -1,4 +1,4 @@
-![Header](https://github.com/paulboivin/paulboivin/blob/main/linkedin_banner.png)
+
 
 # Hello!
 
@@ -8,7 +8,7 @@ My name is Paul Boivin. I'm a Data Analyst based out of Manchester, New Hampshir
 
 ### [Global Sales Performance Analysis][2]
 
-In this project I . Note: this data was synthetically generated.
+In this project I created an end-to-end sales performance analysis identifying the cause of $8.9M annual revenue decline over a 3 year period for a fictional multinational conglomerate and provided.... Note: this data was synthetically generated.
 
 
 ### [Japan Corporate Governance Analysis][3]
@@ -23,11 +23,11 @@ For this project I created an end-to-end analysis of Japan's corporate governanc
 
 ### [Northgate Marketplace Funnel Analysis][4]
 
-In this project I . Note: this data was synthetically generated.
+For this analysis, I identified $217,956 in lost revenue from cart abandonment for a fictional e-commerce company and designed a recovery model to reduce cart abandonment by 5% to 15% and generate between $2,982 and $9,048 in additional annual revenue. Note: this data was synthetically generated.
 
 ### [Tokyo Last-Mile Delivery Perfomance Analysis][5]
 
-In this project I . Note: this data was synthetically generated.
+For this project I processed 50,279 deliveries across five logistical hubs for a fictional logistics company with an overall failure rate of approximately 10% and an annual revenue impact of ¥5,985,600 under an attempt-weighted cost model and created a The revenue recovery model projects that would prevent an estimated 301 to 422 failed deliveries annually and recover between ¥358,405 and ¥502,481. Note: this data was synthetically generated.
 
 ## All Projects Were Built With
 
