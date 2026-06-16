@@ -18,7 +18,7 @@ For this project I created an end-to-end analysis of Japan's corporate governanc
 - Located and downloaded data from three public sources. Evaluated data availability, format consistency, and coverage gaps before committing to the analytical scope.
 - Cleaned and standardized each dataset individually using a most-recently-published deduplication strategy.
 - Built a two-page interactive dashboard.
-- Analayzed trends related to capital hoarding behavior and outcomes of capital deployment on GDP.
+- Analyzed trends related to capital hoarding behavior and outcomes of capital deployment on GDP.
 - Wrote a structured business document translating analytical findings into plain language for a technical and non-technical stakeholder audience.
 
 ### [Northgate Marketplace Funnel Analysis][4]
