@@ -1,4 +1,4 @@
-![Header](https://github.com/paulboivin/paul-boivin/blob/main/linkedin_banner.png "Header")
+![Header](https://github.com/paulboivin/paul-boivin/blob/main/linkedin_banner.png)
 
 # Hello!
 
