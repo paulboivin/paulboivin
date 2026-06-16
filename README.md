@@ -27,7 +27,7 @@ For this analysis, I identified $217,956 in lost revenue from cart abandonment f
 
 ### [Tokyo Last-Mile Delivery Perfomance Analysis][5]
 
-For this project I processed 50,279 deliveries across five logistical hubs for a fictional logistics company with an overall failure rate of approximately 10% and an annual revenue impact of ¥5,985,600 under an attempt-weighted cost model and created a The revenue recovery model projects that would prevent an estimated 301 to 422 failed deliveries annually and recover between ¥358,405 and ¥502,481. Note: this data was synthetically generated.
+For this project I processed 50,279 deliveries across five logistical hubs for a fictional logistics company with an overall failure rate of approximately 10% and an annual revenue impact of ¥5,985,600 under an attempt-weighted cost model and created a revenue recovery model that would prevent an estimated 301 to 422 failed deliveries annually and recover between ¥358,405 and ¥502,481. Note: this data was synthetically generated.
 
 ## All Projects Were Built With
 
