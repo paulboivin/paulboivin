@@ -8,7 +8,7 @@ My name is Paul Boivin. I'm a Data Analyst based out of Manchester, New Hampshir
 
 ### [Global Sales Performance Analysis][2]
 
-In this project I created an end-to-end sales performance analysis identifying the cause of $8.9M annual revenue decline over a 3 year period for a fictional multinational conglomerate and provided....
+In this project I created an end-to-end sales performance analysis identifying the cause of $8.9M annual revenue decline over a 3 year period for a fictional multinational conglomerate and provided recommendations for expanding product category sales into growing regional markets.
 
 
 ### [Japan Corporate Governance Analysis][3]
