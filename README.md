@@ -1,15 +1,16 @@
-
-
 # Hello!
 
 My name is Paul Boivin. I'm a Data Analyst based out of Manchester, New Hampshire currently seeking opportunities. You can find me on [LinkedIn][1].
 
 ## Data Analysis Projects
 
-### [Global Sales Performance Analysis][2]
+### [Tokai Logistics: Tokyo Last-Mile Delivery Performance Analysis][5]
 
-In this project I created an end-to-end sales performance analysis identifying the cause of $8.9M annual revenue decline over a 3 year period for a fictional multinational conglomerate and provided recommendations for expanding product category sales into growing regional markets.
+For this project I analyzed performance for Tokai Logistics, a fictional third-party logistics provider, processing 50,279 deliveries across five hubs in the Greater Tokyo area with an overall failure rate of approximately 10% and an annual revenue impact of ¥5,985,600 under an attempt-weighted cost model, then built a revenue recovery model projecting prevention of 301 to 422 failed deliveries annually and recovery of ¥358,405 to ¥502,481.
 
+### [Northgate Marketplace Funnel Analysis][4]
+
+For this analysis, I identified $217,956 in lost revenue from cart abandonment for a fictional e-commerce company and designed a recovery model to reduce cart abandonment by 5% to 15% and generate between $2,982 and $9,048 in additional annual revenue.
 
 ### [Japan Corporate Governance Analysis][3]
 
@@ -21,24 +22,19 @@ For this project I created an end-to-end analysis of Japan's corporate governanc
 - Analyzed trends related to capital hoarding behavior and outcomes of capital deployment on GDP.
 - Wrote a structured business document translating analytical findings into plain language for a technical and non-technical stakeholder audience.
 
-### [Northgate Marketplace Funnel Analysis][4]
+### [Global Sales Performance Analysis][2]
 
-For this analysis, I identified $217,956 in lost revenue from cart abandonment for a fictional e-commerce company and designed a recovery model to reduce cart abandonment by 5% to 15% and generate between $2,982 and $9,048 in additional annual revenue.
-
-### [Tokyo Last-Mile Delivery Perfomance Analysis][5]
-
-For this project I processed 50,279 deliveries across five logistical hubs for a fictional logistics company with an overall failure rate of approximately 10% and an annual revenue impact of ¥5,985,600 under an attempt-weighted cost model and created a revenue recovery model that would prevent an estimated 301 to 422 failed deliveries annually and recover between ¥358,405 and ¥502,481.
+In this project I created an end-to-end sales performance analysis identifying the cause of $8.9M annual revenue decline over a 3 year period for a fictional multinational conglomerate and provided recommendations for expanding product category sales into growing regional markets.
 
 ## All Projects Were Built With
 
-- Python
-- SQL
-- Power BI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
 [1]: https://www.linkedin.com/in/paulboivin7/
 [2]: https://github.com/paulboivin/Global-Sales-Performance-Analysis
 [3]: https://github.com/paulboivin/Japan-Corporate-Governance-Analysis
 [4]: https://github.com/paulboivin/Northgate-Marketplace-Funnel-Analysis
 [5]: https://github.com/paulboivin/Tokyo-Last-Mile-Delivery-Performance-Analysis
-[6]: 
-[7]: 
