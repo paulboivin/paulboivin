@@ -1,3 +1,5 @@
+![Header](https://github.com/paulboivin/paulboivin/blob/main/linkedin_banner.png)
+
 # Hello!
 
 My name is Paul Boivin. I'm a Data Analyst based out of Manchester, New Hampshire currently seeking opportunities. You can find me on [LinkedIn][1].
